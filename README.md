@@ -3,9 +3,9 @@ For Project Setup:
 Clone repo.
 Run [php artisan migrate] and [php artisan serve]
 
-================================================================
+
 For testing:
-================================================================
+
 Dashboard Test Suite
 ----------------------------------------------------------------
     - Not logged in yet
@@ -47,5 +47,9 @@ Home Page Test Suite
             - Should be Redirected to [Pokemons] page
 
 Note:
+
     - Fixed what I wanted to fix on the first source code I submitted.
-    - Usually need 2-4 weeks of learning a new tech stach and adapt
+    
+    - Usually need 2-4 weeks to learn and adapt a new tech stach  
+    but previous PHP experience and js frameworks experience helped
+    in reading and understanding base source code.
