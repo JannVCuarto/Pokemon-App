@@ -52,7 +52,8 @@ Home Page Test Suite
 
 Note
 ----------------------------------------------------------------
-    - Fixed what I wanted to fix on the first source code I submitted.
+    - Fixed what I wanted to fix on the first source code I studied and submitted
+    but still used it as base.
     
     - Usually need 2-4 weeks to learn and adapt a new tech stach  
     but previous PHP experience and js frameworks experience helped
