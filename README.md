@@ -1,7 +1,11 @@
-For Project Setup:
-
-Clone repo.
-Run [php artisan migrate] and [php artisan serve]
+For Project Setup
+----------------------------------------------------------------
+    - Clone repo.
+    - Open cmd
+    - Go to path where repo was cloned and run [code .]
+    - Must have xampp/wamp running
+    - Run [php artisan migrate]
+    - Run [php artisan serve]
 
 
 For testing:
@@ -28,7 +32,7 @@ Dashboard Test Suite
         - Click [Other Users] nav bar
             - Should see list of other users(if any)
             - Should see own row as [This is Me!] for the username
-----------------------------------------------------------------
+
 Home Page Test Suite
 ----------------------------------------------------------------
     - Register
@@ -46,8 +50,8 @@ Home Page Test Suite
         - Login using registered email
             - Should be Redirected to [Pokemons] page
 
-Note:
-
+Note
+----------------------------------------------------------------
     - Fixed what I wanted to fix on the first source code I submitted.
     
     - Usually need 2-4 weeks to learn and adapt a new tech stach  
